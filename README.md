@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Schedule Management System
 
 A full-stack web application for managing library duty schedules and user accounts. Built with React/TypeScript on the frontend and Node.js/Express on the backend, with MySQL as the database.
